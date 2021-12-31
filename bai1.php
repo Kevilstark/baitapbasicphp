@@ -1,5 +1,5 @@
 <?php
-    $S = 'll be ba,.,ck after 20 minu,.,tes';
+    $S = 'll be back after 20 minutes';
 
 
     function longestWords($Str): string
